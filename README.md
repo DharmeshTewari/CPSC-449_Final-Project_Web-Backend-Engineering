@@ -1,6 +1,6 @@
 # Cloud Service Access Management System
 
-## Final Project - Cloud Service Access Management System
+## Cloud Service Access Management System
 ### with MongoDB, Postman, and PyCharm: Dynamic access control, subscription management, and usage tracking for cloud APIs.
 
 ## Team Members:
