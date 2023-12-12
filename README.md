@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# CPSC-449_Final-Project_Web-Backend-Engineering
-Cloud Service Access Management System with MongoDB, Postman, and PyCharm: Dynamic access control, subscription management, and usage tracking for cloud APIs.
-=======
-# Cloud Service Access Management System
-
 ## Cloud Service Access Management System
 ### with MongoDB, Postman, and PyCharm: Dynamic access control, subscription management, and usage tracking for cloud APIs.
 
@@ -218,4 +212,3 @@ The code defines the following APIs:
 This script outlines the steps to demonstrate the key features of the Cloud Service Access Management System using PyCharm, MongoDB, and Postman. Adjust the details based on your specific implementation.
 
 For more details, you can refer to the [GitHub repository](https://github.com/DharmeshTewari/CPSC-449_Final-Project_Web-Backend-Engineering).
->>>>>>> e3e537ed6abf8aefdd821b7e25bcb537b0ae374d
