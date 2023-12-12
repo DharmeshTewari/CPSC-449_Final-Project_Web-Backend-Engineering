@@ -209,6 +209,4 @@ The code defines the following APIs:
     }
     ```
 
-This script outlines the steps to demonstrate the key features of the Cloud Service Access Management System using PyCharm, MongoDB, and Postman. Adjust the details based on your specific implementation.
-
-For more details, you can refer to the [GitHub repository](https://github.com/DharmeshTewari/CPSC-449_Final-Project_Web-Backend-Engineering).
+This script outlines the steps to demonstrate the key features of the Cloud Service Access Management System using PyCharm, MongoDB, and Postman.
