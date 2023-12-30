@@ -1,11 +1,6 @@
 ## Cloud Service Access Management System
 ### with MongoDB, Postman, and PyCharm: Dynamic access control, subscription management, and usage tracking for cloud APIs.
 
-## Team Members:
-- Dharmesh Tewari
-- Jahanvi Paliwal
-- Viraat Udar
-
 ## Steps to run the application:
 1. Create environment and activate.
 2. Run command `pip install -r requirements.txt` to install all dependencies.
